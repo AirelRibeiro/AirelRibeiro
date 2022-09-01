@@ -17,6 +17,8 @@
 
 ###
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
 <br clear="both">
 
 <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
