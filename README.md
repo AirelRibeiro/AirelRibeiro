@@ -12,7 +12,7 @@
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
 <h3 align="left">✏️ Estudo na Trybe para me tornar desenvolvedore Full Stack<br</h3>
-<h3 align="left">💻 Atualmente estou estudando Deploy com Docker e Heroku</h3>
+<h3 align="left">💻 Atualmente estou estudando TypeScript e POO</h3>
 <h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
 
 ###
@@ -20,6 +20,23 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 <br clear="both">
+
+<h2 align="left">📞 Você pode me contatar em:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/airel-ribeiro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/airel_ribeiro?hr_r=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<br>
 
 <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
 
@@ -106,21 +123,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
     IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em e para Java, possibilitando o uso de outras linguagens baseadas em JAR.
   </p>
-</div>
-
-###
-
-<h2 align="left">📞 Você pode me contatar em:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/airel-ribeiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/airel_ribeiro?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
-  </a>
 </div>
 
 ###
