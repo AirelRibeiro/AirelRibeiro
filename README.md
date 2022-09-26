@@ -18,6 +18,7 @@
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AirelRibeiro&label=Profile%20views&color=ff69b4&style=for-the-badge" width="250" alt="Airel Ribeiro" /> </p>
 
 <br clear="both">
 
@@ -37,6 +38,7 @@
 ###
 
 <br>
+
 
 <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
   
