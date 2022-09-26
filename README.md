@@ -39,8 +39,41 @@
 <br>
 
 <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
+  
+ #### Linguagens e tecnologias de desenvolvimento:
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="express logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
+    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" width="52" alt="Typescript logo"  />
+  </div>
 
+#### Frameworks de testes:
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="52" alt="jest logo"  />
+    <img src="https://testing-library.com/img/octopus-128x128.png" width="52" alt="RTL logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" width="52" alt="Mocha logo"  />
+    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/76dc6780-9bb2-11e8-927c-71f29759abab.png" width="52" alt="Chai logo"  />
+  </div>
+  
+#### Editores de código e ferramentas de versionamento:
+  <div align="left">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="intellij logo"  />
+  </div>
+  
 ###
+  
+<h2 align="left">Não conhece algum desses ícones? Preparei esse glossário para você👇🏾🤗:</h2>
 
 <div align="left">
   <p>
@@ -80,7 +113,7 @@
     React é uma biblioteca JavaScript declarativa que foi desenvolvida pelo Facebook com o objetivo de criar aplicações front-end;
   </p>
   <p>
-    <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="react logo"  />
+    <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="RTL logo"  />
     React Testing Library oferece um conjunto de funções utilitárias, pemitindo teste de componentes React, simulando a forma como o software funciona;
   </p>
   <p>
@@ -104,7 +137,7 @@
     Express é um framework para aplicativo da web do Node.js;
   </p>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" height="40"          width="52" alt="express logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" height="40"          width="52" alt="Mocha logo"  />
     Mocha é um framework de testes JavaScript para Node.js, que oferece, entre outras coisas, testes assíncronos e relatórios de cobertura de teste;
   </p>
   <p>
@@ -112,8 +145,12 @@
     Chai é uma biblioteca de asserção para Node que pode ser usada com qualquer estrutura de teste JavaScript;
   </p>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="trello logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
     Sequelize é um ORM TypeScript e Node.js MySQL, MariaDB, SQLite,Postgres, SQL Server e semelhantes;
+  </p>
+  <p>
+    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" height="40" alt="Typescript logo"  />
+    TypeScript é uma linguagem de programação que sintetiza um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando tipagem estática à linguagem;
   </p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
