@@ -12,7 +12,7 @@
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
 <h3 align="left">✏️ Estudo na Trybe para me tornar desenvolvedore Full Stack<br</h3>
-<h3 align="left">💻 Atualmente estou estudando TypeScript e POO</h3>
+<h3 align="left">💻 Atualmente estou estudando NoSQL e MongoDB</h3>
 <h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
 
 ###
