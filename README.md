@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h2 align="left">📞 Você pode me contatar em:</h2>
+<h2 align="left">💬 Você pode me contatar em:</h2>
 
 ###
 
@@ -32,12 +32,16 @@
   <a href="https://www.linkedin.com/in/airel-ribeiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/airel_ribeiro?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
+  <a href="https://wa.me/5581995925479" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
 ###
+
+<h3 align="left">📩 Ou mandar um email para:</h3>
+
+<img src="https://img.shields.io/static/v1?message=airel.ribeirosilva@gmail.com&label=&color=f26e5a&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
 
 <br>
 
