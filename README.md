@@ -4,27 +4,59 @@
 
 <h2 align="left">✨ Sobre mim:</h2>
 
-###
+
 
 <img align="right" height="200" src="https://c.tenor.com/Iqb8yXDX198AAAAj/twitch-onigiri.gif"  />
 
 ###
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
-<h3 align="left">✏️ Estudo na Trybe para me tornar desenvolvedore Full Stack<br</h3>
-<h3 align="left">💻 Atualmente estou estudando NoSQL e MongoDB</h3>
+<h3 align="left">✏️ Finalizando formação de desenvolvimento Full Stack na Trybe</h3>
+<h3 align="left">💻 Atualmente estou estudando Estrutura e complexidade de algoritmos</h3>
 <h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
 
 ###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AirelRibeiro&label=Profile%20views&color=ff69b4&style=for-the-badge" width="250" alt="Airel Ribeiro" /> </p>
+<br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirelRibeiro&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+  <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
+  
+###
+  
+ #### Linguagens e tecnologias de desenvolvimento:
+  
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="express logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
+    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" width="52" alt="Typescript logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="54" alt="MongoDB logo"  />
+  </div>
 
-<!-- Crédito pelo contador: https://github.com/antonkomarev/github-profile-views-counter -->
-
-<br clear="both">
+#### Frameworks de testes:
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="52" alt="jest logo"  />
+    <img src="https://testing-library.com/img/octopus-128x128.png" width="52" alt="RTL logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" width="52" alt="Mocha logo"  />
+    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/76dc6780-9bb2-11e8-927c-71f29759abab.png" width="52" alt="Chai logo"  />
+  </div>
+  
+#### Editores de código e ferramentas de versionamento:
+  <div align="left">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="intellij logo"  />
+  </div>
+  
+###
+<br/>
 
 <h2 align="left">💬 Você pode me contatar em:</h2>
 
@@ -47,43 +79,17 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AirelRibeiro&label=Profile%20views&color=ff69b4&style=for-the-badge" width="250" alt="Airel Ribeiro" /> </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirelRibeiro&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
-  
- #### Linguagens e tecnologias de desenvolvimento:
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="bash logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="express logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
-    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" width="52" alt="Typescript logo"  />
-  </div>
+<!-- Crédito pelo contador: https://github.com/antonkomarev/github-profile-views-counter -->
 
-#### Frameworks de testes:
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="52" alt="jest logo"  />
-    <img src="https://testing-library.com/img/octopus-128x128.png" width="52" alt="RTL logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" width="52" alt="Mocha logo"  />
-    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/76dc6780-9bb2-11e8-927c-71f29759abab.png" width="52" alt="Chai logo"  />
-  </div>
-  
-#### Editores de código e ferramentas de versionamento:
-  <div align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" alt="git logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" alt="vscode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="intellij logo"  />
-  </div>
-  
-###
-  
-<h2 align="left">Não conhece algum desses ícones? Preparei esse glossário para você👇🏾🤗:</h2>
+<br clear="both">
+
+ 
+<h2 align="left">Não conhece algum dos ícones das minha ferramentas? Preparei esse glossário para você👇🏾🤗:</h2>
 
 <div align="left">
   <p>
@@ -161,6 +167,10 @@
   <p>
     <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" height="40" alt="Typescript logo"  />
     TypeScript é uma linguagem de programação que sintetiza um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando tipagem estática à linguagem;
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="54" alt="MongoDB logo"/>
+    MongoDB é um software de bancos de dados NoSQL, com uma estrutura de documentos semelhantes a esquemas JSON. Eficiente para trabalhar com grandes volumes de dados, MongoDB é uma estrutura open source e possui suporte  oficial para diversas linguagens, entre elas Java, Node.js, PHP e Python,;
   </p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
