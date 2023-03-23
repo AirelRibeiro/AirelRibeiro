@@ -11,8 +11,7 @@
 ###
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
-<h3 align="left">✏️ Finalizando formação de desenvolvimento Full Stack na Trybe</h3>
-<h3 align="left">💻 Atualmente estou estudando Estrutura e complexidade de algoritmos</h3>
+<h3 align="left">💻 Atualmente estou estudando Clean Code</h3>
 <h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
 
 ###
