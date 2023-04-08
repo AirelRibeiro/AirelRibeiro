@@ -30,6 +30,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="52" alt="vue logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
@@ -126,6 +127,10 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
     React é uma biblioteca JavaScript declarativa que foi desenvolvida pelo Facebook com o objetivo de criar aplicações front-end;
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="react logo"  />
+    VueJS um framework JavaScript que oferece uma estrutura acessível e versátil para a construção de interfaces de usuário na web;
   </p>
   <p>
     <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="RTL logo"  />
