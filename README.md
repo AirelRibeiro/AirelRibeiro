@@ -11,7 +11,7 @@
 ###
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
-<h3 align="left">💻 Atualmente estou estudando POO em Pỳthon</h3>
+<h3 align="left">💻 Atualmente estou estudando Técnicas de programação com Pandas e Numpy</h3>
 <h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
 
 ###
