@@ -1,60 +1,44 @@
 <h1 align="center">Oi, eu sou Airel❣️</h1>
 
-###
+
 
 <h2 align="left">✨ Sobre mim:</h2>
 
+<img align="right" height="200" src="https://cdn.pixabay.com/photo/2023/03/15/21/00/rabbit-7855464_1280.jpg"  />
 
-
-<img align="right" height="200" src="https://c.tenor.com/Iqb8yXDX198AAAAj/twitch-onigiri.gif"  />
-
-###
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
-<h3 align="left">💻 Atualmente estou estudando Técnicas de programação com Pandas e Numpy</h3>
-<h3 align="left">📕 Nas horas livres gosto de ler e geralmente chamo todo mundo de bolinho</h3>
+<h3 align="left">💻 Atualmente estou estudando Desenvolvimento com Java</h3>
+<h3 align="left">🐇 Adoro coelhos!</h3>
+<h3 align="left">💖 Nas horas livres gosto de ler, sair com amigos e ver filmes de terror.</h3>
 
 ###
 <br/>
   
-  <h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
+  <h2 align="left">🛠️ Ferramentas e tecnologias que já usei em projetos:</h2>
   
-###
   
- #### Linguagens e tecnologias de desenvolvimento:
-  
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="Linux logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="bash logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="52" alt="Python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="52" alt="vue logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="express logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
-    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" width="52" alt="Typescript logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="54" alt="MongoDB logo"  />
-  </div>
-
-#### Frameworks de testes:
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="52" alt="jest logo"  />
-    <img src="https://testing-library.com/img/octopus-128x128.png" width="52" alt="RTL logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" width="52" alt="Mocha logo"  />
-    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/76dc6780-9bb2-11e8-927c-71f29759abab.png" width="52" alt="Chai logo"  />
-  </div>
-  
-#### Editores de código e ferramentas de versionamento:
-  <div align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" alt="git logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" alt="vscode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="intellij logo"  />
-  </div>
+  <div align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-logo"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" width=80 alt="java-logo"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" alt="react-logo"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-logo"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongodb-logo"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha-logo"/>
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai-logo"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman-logo"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger-logo"/>
+</div>
   
 ###
 <br/>
@@ -65,130 +49,27 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/airel-ribeiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
   </a>
   <a href="https://wa.me/5581995925479" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-2EC866&?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo"/>
   </a>
 </div>
 
 ###
 
-<h3 align="left">📩 Ou mandar um email para:</h3>
-
-<img src="https://img.shields.io/static/v1?message=airel.ribeiroesilva@gmail.com&label=&color=f26e5a&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+<h2 align="left">📩 Ou mandar um email para:</h2>
+<img src="https://img.shields.io/static/v1?message=airel.ribeiroesilva@gmail.com&label=gmail&color=f26e5a&logoColor=white&labelColor=&style=flat" height="40" alt="email"  />
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirelRibeiro&hide=contribs,issues&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AirelRibeiro&label=Profile%20views&color=ff69b4&style=for-the-badge" width="250" alt="Airel Ribeiro" /> </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirelRibeiro&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">📊 Minhas estatísticas no GitHub</h3>
 
-<!-- Crédito pelo contador: https://github.com/antonkomarev/github-profile-views-counter -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=airelribeiro&icons=true&theme=ocean_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=airelribeiro&layout=compact&langs_count=8&card_width=320&icons=true&theme=blueberry" />
+</a>
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=airelribeiro&theme=panda&locale=pt_BR" />
 
-<br clear="both">
-
- 
-<h2 align="left">Não conhece algum dos ícones das minha ferramentas? Preparei esse glossário para você👇🏾🤗:</h2>
-
-<div align="left">
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
-    Linux é um sistema operacional de código aberto baseado em Unix;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-    Bash significa Bourne Again Shell, é ao mesmo tempo um shell Unix e um interpretador de linguagem de comando;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-    Git é um sistema open-source de controle de versão;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-    Visual Studio Code é um editor de código-fonte com suporte para, entre outras coisas, versionamento e depuração de código;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    HyperText Markup Language é uma linguagem de marcação, essencial para o funcionamento de sites;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-    Cascading Style Sheets ajuda na personalização visual dos sites;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    JavaScript é uma linguagem de programação interpretada estruturada, com tipagem dinâmica fraca e multiparadigma;
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="52" alt="Python logo"  />
-    Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-    O Jest é um framework de testes desenvolvido pelo Facebook;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-    React é uma biblioteca JavaScript declarativa que foi desenvolvida pelo Facebook com o objetivo de criar aplicações front-end;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="react logo"  />
-    VueJS um framework JavaScript que oferece uma estrutura acessível e versátil para a construção de interfaces de usuário na web;
-  </p>
-  <p>
-    <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="RTL logo"  />
-    React Testing Library oferece um conjunto de funções utilitárias, pemitindo teste de componentes React, simulando a forma como o software funciona;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-    Redux é uma biblioteca construída para gerenciar os estados de uma aplicação;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-    Docker é uma plataforma que permite a criação e administração de ambientes virtuais isolados;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-    MySQL é um sistema open-source de gerenciamento de banco de dados;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-    Node.js é um software de código aberto que permite a execução de códigos JavaScript fora de um navegador web;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-    Express é um framework para aplicativo da web do Node.js;
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" height="40"          width="52" alt="Mocha logo"  />
-    Mocha é um framework de testes JavaScript para Node.js, que oferece, entre outras coisas, testes assíncronos e relatórios de cobertura de teste;
-  </p>
-  <p>
-    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/76dc6780-9bb2-11e8-927c-71f29759abab.png" height="40" alt="Chai logo"  />
-    Chai é uma biblioteca de asserção para Node que pode ser usada com qualquer estrutura de teste JavaScript;
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
-    Sequelize é um ORM TypeScript e Node.js MySQL, MariaDB, SQLite,Postgres, SQL Server e semelhantes;
-  </p>
-  <p>
-    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" height="40" alt="Typescript logo"  />
-    TypeScript é uma linguagem de programação que sintetiza um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando tipagem estática à linguagem;
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="54" alt="MongoDB logo"/>
-    MongoDB é um software de bancos de dados NoSQL, com uma estrutura de documentos semelhantes a esquemas JSON. Eficiente para trabalhar com grandes volumes de dados, MongoDB é uma estrutura open source e possui suporte  oficial para diversas linguagens, entre elas Java, Node.js, PHP e Python,;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-    Trello é um aplicativo de gerenciamento que permite a implementação do Scrum enquanto metodologia ágil;
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
-    IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em e para Java, possibilitando o uso de outras linguagens baseadas em JAR.
-  </p>
-</div>
-
-###
