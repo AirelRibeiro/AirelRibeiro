@@ -1,10 +1,10 @@
 <h1 align="center">Oi, eu sou Airel❣️</h1>
-
-
+<h3 align="center">Sou apaixonade por palavras, coelhos e solucionar problemas usando tecnologia.</h3>
 
 <h2 align="left">✨ Sobre mim:</h2>
 
 <img align="right" height="200" src="https://cdn.pixabay.com/photo/2023/03/15/21/00/rabbit-7855464_1280.jpg"  />
+
 
 
 <h3 align="left">🏳️‍⚧️ Meus pronomes são Elu/Delu</h3>
